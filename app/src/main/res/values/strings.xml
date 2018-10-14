@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FunSwitch Task</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_title">Rise and Shine!</string>
+    <string name="info_txt">There\'s a lot going on today. There are 6 todos scheduled and the first one starts at 10 AM.</string>
+    <string name="pending_items">PENDING ITEMS</string>
+    <string name="completed_items">COMPLETED ITEMS</string>
+</resources>
